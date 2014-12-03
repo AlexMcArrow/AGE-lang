@@ -1,4 +1,3 @@
-
 AGELANG['en'] = {
     'search': 'search',
     'lupd': 'true on ',
@@ -12,6 +11,11 @@ AGELANG['en'] = {
     'object-all-independent': 'independent',
     'object-all-federation': 'federation',
     'object-all-alliance': 'alliance',
+    'object-type-star': 'Star',
+    'object-type-beacon': 'Beacon',
+    'object-type-asteroidring': 'Asteroid ring',
+    'object-type-planet': 'Planet',
+    'object-type-station': 'Station',
     'objecttypesub': 'object subtype',
     'objectfuel': 'can fuel',
     'objectbbs': 'bulletin board',
@@ -41,5 +45,11 @@ AGELANG['en'] = {
     'norecords': 'no records',
     'distance': 'distance',
     'conception_text': '<p>Association of Galaxy Exploration - a project to collect, update and provide information about stellar systems and their objects in the Galaxy, &quot;ELITE: Dangerous&quot;.&nbsp;</p><p>This project aims to collect information on all star systems available and not available for visiting pilots.&nbsp;</p><p>Each pilot can make a contribution to filling or updating information about stellar systems and their properties.&nbsp;</p><p>All information provided &quot;as is&quot; - and can not be objective in resolving disputes and proceedings at any level. However, a reference to a resource, as a source of information is encouraged.</p>',
-    'rules_text': ''
+    'profile': 'profile',
+    'token': 'token',
+    'abouttoken': 'token - used for authorization at the request of the pilot to make or change data',
+    'password': 'password',
+    'logout': 'logout',
+    'authorization': 'authorization',
+    'registration': 'registration'
 };
